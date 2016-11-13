@@ -1,0 +1,12 @@
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\bin\Debug\ModbusMaster.exe
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\bin\Debug\ModbusMaster.pdb
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\bin\Debug\Modbus.dll
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\obj\x86\Debug\ModbusMaster.csprojResolveAssemblyReference.cache
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\obj\x86\Debug\ModbusMaster.Form1.resources
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\obj\x86\Debug\ModbusMaster.Properties.Resources.resources
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\obj\x86\Debug\ModbusMaster.csproj.GenerateResource.Cache
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\obj\x86\Debug\ModbusMaster.exe
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\obj\x86\Debug\ModbusMaster.pdb
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\bin\Debug\ModbusMaster.exe.config
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\bin\Debug\log4net.dll
+C:\Users\Mhs\Desktop\Modbus RTU\ModbusMaster\ModbusMaster\bin\Debug\Unme.Common.dll
